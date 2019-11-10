@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642123666676",
+    "firebase_url": "https://hacknjit-9a9be.firebaseio.com",
+    "project_id": "hacknjit-9a9be",
+    "storage_bucket": "hacknjit-9a9be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642123666676:android:26e933963e3358bbed3aa1",
+        "android_client_info": {
+          "package_name": "com.example.hacknjit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642123666676-mpqktt86kitf01vdakt01op4dsj8cmlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5BPj3kaMHRszul7omPsyD-V_hn69WcqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642123666676-mpqktt86kitf01vdakt01op4dsj8cmlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
