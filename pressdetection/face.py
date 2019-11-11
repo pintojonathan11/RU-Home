@@ -8,12 +8,12 @@ from firebase_admin import credentials
 from firebase_admin import db
  
  
-cred = credentials.Certificate("/home/linaro/Desktop/HackNJIT/pressdetection/credentials.json")
-firebase_admin.initialize_app(cred, {'databaseURL':'https://hacknjit-9a9be.firebaseio.com/'})
+cred = credentials.Certificate("")
+firebase_admin.initialize_app(cred, {'databaseURL':''})
 root = db.reference()
  
-KEY = '656d138faf3b495895c53acf694fda07'
-ENDPOINT = 'https://westcentralus.api.cognitive.microsoft.com'
+KEY = ''
+ENDPOINT = ''
  
 # Create an authenticated FaceClient.
 face_client = FaceClient(ENDPOINT, CognitiveServicesCredentials(KEY))
